@@ -1,0 +1,9 @@
+1. Background change
+2. Name add karneka -!done
+3. Print button add -!done
+4. report in a single form -!done
+5. bold labels 
+6. title: "CardioRisk Analyzer: Personalized Heart Health Predictions" -!done
+7.LLm for suggestion
+8.DB
+9.
